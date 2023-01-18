@@ -1,5 +1,8 @@
+<div align="center">
+<img align="center" width="900px" style="width: 100%" src="./Banner/Black_Minimal_Motivation_Quote_LinkedIn_Banner.gif" alt="banner"/>
+</div>
 
-<h1 align="center">Hi 👋, I'm Joaquin Delgado.</h1>
+
 <h3 align="center">A creative JavaScript FullStack developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
