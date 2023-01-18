@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" width="900px" style="width: 100%" src="./Banner/Black_Minimal_Motivation_Quote_LinkedIn_Banner.gif" alt="banner"/>
+<img align="center" width="900px" style="width: 100%" src="./Banner/Banner.gif" alt="banner"/>
 </div>
 
 
