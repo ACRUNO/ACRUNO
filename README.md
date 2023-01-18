@@ -30,7 +30,7 @@
 <p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ACRUNO&show_icons=true&locale=en&theme=github_dark" alt="ACRUNO" /></p>
 <p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ACRUNO&theme=dark&mode=weekly&" alt="ACRUNO" /></p>
 
-<br/>  
+
 
 ## Projects
 
