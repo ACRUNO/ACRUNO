@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablocalu&label=Profile%20views&color=0e75b6&style=flat" alt="pablocalu" /> </p>
 
 
-- 🌱 I’m currently learning **NextJS.**
+- 🌱 I’m currently learning **NestJS.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ACRUNO?tab=repositories](https://github.com/ACRUNO?tab=repositories)
 
